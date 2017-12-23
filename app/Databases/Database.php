@@ -2,7 +2,6 @@
 
 namespace App\Databases;
 
-
 class Database
 {
     private $pdo;
