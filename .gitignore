@@ -1,0 +1,4 @@
+.idea/*
+vendor/*
+.sass-cache/*
+public/.sass-cache/*
